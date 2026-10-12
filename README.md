@@ -1,11 +1,11 @@
 # 📡 Derinlik Algılama ve Kamera Destekli Radar Sistemi
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Donanım-Deneyap%20Kart%201A%20%28ESP32%29-007acc?style=for-the-badge&logo=espressif&logoColor=white" alt="Donanım" />
-  <img src="https://img.shields.io/badge/Sensör-VL53L0X%20ToF%20Lazer-059669?style=for-the-badge" alt="Sensör" />
-  <img src="https://img.shields.io/badge/Görselleştirme-Processing%20IDE-2b5b84?style=for-the-badge&logo=processingfoundation&logoColor=white" alt="Processing" />
-  <img src="https://img.shields.io/badge/Görüntüleme-OV2640%20Kamera-d97706?style=for-the-badge" alt="Kamera" />
-  <img src="https://img.shields.io/badge/Lisans-MIT-brightgreen?style=for-the-badge" alt="Lisans" />
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/Donan%C4%B1m-Deneyap%20Kart%201A-24292e?style=flat-square&logo=espressif" alt="Donanım" /></a>
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/Sens%C3%B6r-VL53L0X%20ToF%20Lazer-24292e?style=flat-square" alt="Sensör" /></a>
+  <a href="#processing-radar"><img src="https://img.shields.io/badge/G%C3%B6rselle%C5%9Ftirme-Processing%20IDE-24292e?style=flat-square&logo=processingfoundation" alt="Processing" /></a>
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCleme-OV2640%20Kamera-24292e?style=flat-square" alt="Kamera" /></a>
+  <a href="#lisans"><img src="https://img.shields.io/badge/Lisans-MIT-24292e?style=flat-square" alt="Lisans" /></a>
 </p>
 
 > **Deneyap Kart (ESP32)**, **VL53L0X ToF Lazer Mesafe Sensörü**, **Servo Motor** ve **OV2640 Kamera** kullanılarak geliştirilmiş; 180° ortam taraması yapan, 40 cm yakınlığa giren nesneleri otomatik fotoğraflayan ve askeri radar ekranı gibi **Processing** üzerinde canlı görselleştiren otonom güvenlik ve radar sistemi.
